@@ -8,8 +8,8 @@ I come home from my day-job as a math teacher, spend time with my family, and th
 
 
 <p>
-<img align=right width=150 src="https://github.com/user-attachments/assets/6d8948df-8e83-4f67-9ff9-7cfd0f5beccf" />
-<img align=left width=150 src="https://github.com/user-attachments/assets/59d4042e-96cb-42c0-843d-8547ffe1bfbd" />
+<img align=right width=150 src="https://github.com/user-attachments/assets/e1687bfb-234d-4993-99d4-660a4a50f273" />
+<img align=left width=150 src="https://github.com/user-attachments/assets/31238417-9d97-4f0e-8f37-f1c6a7357e6b" />
 </p>
 
 
