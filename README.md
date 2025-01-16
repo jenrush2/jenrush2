@@ -1,8 +1,8 @@
 ## Hello! 👋
 
 <p>
-<img align=left width=500 src="https://github.com/user-attachments/assets/7de72d96-8055-4c05-813e-3e2eb86f2b08" />
-<img align=right width=150 src="https://github.com/user-attachments/assets/0e7174d9-17fc-4dda-9353-3e6bb5d948a3" />
+<img align=left width=350 src="https://github.com/user-attachments/assets/7de72d96-8055-4c05-813e-3e2eb86f2b08" />
+<img align=right width=100 src="https://github.com/user-attachments/assets/0e7174d9-17fc-4dda-9353-3e6bb5d948a3" />
 </p>
 
 
