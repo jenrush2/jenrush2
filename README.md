@@ -1,7 +1,7 @@
 ## Hello! 👋
 
 <p>
-<img align=right width=150 src="https://github.com/user-attachments/assets/e1687bfb-234d-4993-99d4-660a4a50f273" />
+<img align=right width=150 src="https://github.com/user-attachments/assets/7de72d96-8055-4c05-813e-3e2eb86f2b08" />
 <img align=left width=150 src="https://github.com/user-attachments/assets/31238417-9d97-4f0e-8f37-f1c6a7357e6b" />
 </p>
 
