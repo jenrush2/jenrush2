@@ -1,9 +1,10 @@
 ## Hello! 👋
 
 <p>
-<img align=right width=150 src="https://github.com/user-attachments/assets/7de72d96-8055-4c05-813e-3e2eb86f2b08" />
-<img align=left width=150 src="https://github.com/user-attachments/assets/31238417-9d97-4f0e-8f37-f1c6a7357e6b" />
+<img align=left width=500 src="https://github.com/user-attachments/assets/7de72d96-8055-4c05-813e-3e2eb86f2b08" />
+<img align=right width=150 src="https://github.com/user-attachments/assets/0e7174d9-17fc-4dda-9353-3e6bb5d948a3" />
 </p>
+
 
 I’m a high school math-teacher turned backend programmer! 
 
